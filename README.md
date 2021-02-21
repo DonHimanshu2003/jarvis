@@ -1,6 +1,6 @@
 # jarvis
 
-Here we have used Node JS and Selenium framework for extracting the result from the web as well as displaying it to the user.
+We have addressed the essential part of a netizen’s life by enabling our voice assistant to search the web. 
 
 This helps in making the learning process more practical and out of the four walls of the classroom. 
 
